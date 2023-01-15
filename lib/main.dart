@@ -2,7 +2,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:lifts_app/display_screen/screen.dart';
 import 'package:provider/provider.dart';
-import 'package:lifts_app/model/lifts_view_model.dart';
 import 'package:lifts_app/pages/map_screen.dart';
 
 void main() async {
