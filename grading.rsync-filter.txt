@@ -1,0 +1,12 @@
+; These rsync filter rules specify which files to copy over the student's submission repo.
+; rsync has some quirks: the order of these rules matter
+; Read here to understand: https://unix.stackexchange.com/a/307863/329735
+
++ /*
+
+; files to copy:
+
++ /test/*.dart
+
+; exclude everything else by default:
+- /*

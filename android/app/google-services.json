@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771674769429",
+    "firebase_url": "https://book-a-ride-bdc14-default-rtdb.firebaseio.com",
+    "project_id": "book-a-ride-bdc14",
+    "storage_bucket": "book-a-ride-bdc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771674769429:android:14dfee701c469547c5661c",
+        "android_client_info": {
+          "package_name": "za.co.wethinkcode.widgets_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771674769429-19c6sqp3p2fnksgsa3hbthbpri06120a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sVVqNyxy0yyi8kUIeP3e2Yfz7gafVPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771674769429-19c6sqp3p2fnksgsa3hbthbpri06120a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
